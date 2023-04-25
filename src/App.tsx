@@ -2,6 +2,8 @@ import Card from "./comonents/Card";
 
 export default function App() {
    return (
-      <Card/>
+      <div className="m-4">
+       <Card/>
+      </div>
    );
 }
