@@ -4,7 +4,7 @@
 @tailwind utilities;
 
 html{
-    background-image: url("src/assets/pattern-background-desktop.svg");
+    background-image: url("https://res.cloudinary.com/dbiudcrba/image/upload/v1682428063/pattern-background-desktop_wrys0g.svg");
     background-repeat: no-repeat;
     background-color: 	#e0e8ff;
 }
