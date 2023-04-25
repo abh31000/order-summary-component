@@ -1,7 +1,9 @@
 export default function Card(){
     return(
         <>
-            <div className="">
+        <div className="bg-white w-fit mx-auto my-32">
+        <img src="src/assets/illustration-hero.svg" alt="" />
+            <div className="w-96 mx-auto">
                 <h1>Order Summary</h1>
                 <p>You can now listen to millions of songs, audiobooks, and podcasts on any device anywhere you like!</p>
                 <div className="">
@@ -12,6 +14,7 @@ export default function Card(){
                 <button>Proceed to Payment</button>
                 <button>Cancel Order</button>
             </div>
+        </div>
         </>
     )
 }
